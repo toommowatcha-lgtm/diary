@@ -1,0 +1,5 @@
+{
+  "name": "StockDiary",
+  "description": "A web application for stock investors to record and analyze company insights, with data persisted in Supabase.",
+  "requestFramePermissions": []
+}
